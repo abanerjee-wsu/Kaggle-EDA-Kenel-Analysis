@@ -1,4 +1,4 @@
-# Kaggle-EDA-Kenel-Analysis
+# Kaggle-EDA-Kernel-Analysis
 This project was an attempt to answer some the intriguing question from Kaggle Kernel submission.
 We all refer to Kaggle projects for EDA challenges and solutions. However, we would like to answer the following questions for which there seems to be no easy answer in the existing web sources;
 
